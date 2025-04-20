@@ -50,60 +50,25 @@ This portfolio follows a long-term study plan starting April 21, 2025, with 3 la
 ### Week 1 (April 21 - April 25, 2025)
 
 - **Lab 1: Network Traffic Capture** (2025-04-21)
-  - Write-up: 
   - Report: 
   - Script: 
-- **Lab 2: Log-Based Forensic Audit** (2025-04-22)
-  - Write-up: 
-  - Report: 
-  - Script: 
-- **Lab 3: File Recovery Forensics** (2025-04-24)
-  - Write-up: 
-  - Report: 
-  - Script: 
-  - Blog Snapshot:
 
-### Week 2 (April 28 - May 2, 2025)
-
-- **Lab 4: Subnet Traffic Analysis** (2025-04-28)
-  - Write-up: 
-  - Report: 
-  - Script: 
-- **Lab 5: Service Permissions Audit** (2025-04-29)
-  - Write-up: 
-  - Report: 
-  - Script: 
-- **Lab 6: Memory Forensics** (2025-05-01)
-  - Write-up: 
-  - Report: 
-  - Script: 
-  - Blog Snapshot:
-
-### Future Weeks
-
-- **Week 3 (May 5 - May 9, 2025)**: To be scheduled (likely Incident Response, Threat Hunting).
-  - Write-ups, scripts, reports and snapshots will be added here.
-- **Week 4 (May 12 - May 16, 2025)**: To be scheduled (likely Malware Analysis, Advanced Network Forensics).
-  - Write-ups, scripts, reports and snapshots will be added here.
-- **Additional Weeks**: Will continue to expand with more advanced topics (e.g., Reverse Engineering, Cloud Security).
 
 ## Links and Resources
 
 As I progress, I’ll share updates and resources:
 
 - **Blog Posts**: www.patosorio.io
-- **External Resources**:
-  - TryHackMe: Path Cybersecurity 101
-  - TryHackMe: a Challenge a day
-  - CyberDefenders: Path CyberRange
-  - HackTheBox: A lab a say
 
-### Core Learning Books
-- "Practical Packet Analysis" by Chris Sanders
-- "Incident Response & Computer Forensics" by Jason T. Luttgens, Matthew Pepe, and Kevin Mandia
-- "Practical Malware Analysis" by Michael Sikorski and Andrew Honig
-- "Practical Reverse Engineering" by Bruce Dang, Alexandre Gazet, and Elias Bachaalany
-- "Practical Cloud Security" by Chris Dotson
+- **External Resources**:
+  - TryHackMe: Learning Path Cybersecurity
+  - TryHackMe: A Challenge a day
+  - CyberDefenders: Path CyberRange
+  - HackTheBox: A Challenge a day
+
+### Current Readings (Core Learning)
+- Practical Packet Analysis by Chris Sanders
+- Principles of Information Security by Whitman & Mattord
 
 I’ll update this section with specific links as I complete labs and share content.
 
