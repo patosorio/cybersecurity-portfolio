@@ -1,0 +1,102 @@
+# Cybersecurity Portfolio
+
+Documenting my journey in hands-on labs, Python automation scripts and detailed reports. 
+
+## About this Portfolio
+
+My study plan involves completing Try Hack Me rooms, CyberDefender Path Rooms, a Hack the Box challenge a day and 3 labs per week, each with:
+
+- A 500-word write-up detailing the lab process, findings, and tools used.
+- A Python script to automate analysis (parsing netwrok traffic, auditing logs...)
+- Blog snapshots, reports to share progress and insights. 
+
+### General Goals
+
+My overarching goal is to study cybersecurity different areas, capable of analyzing digital evidence, identifying threats, and automating investigative processes. Through this study plan, I aim to:
+
+- Master practical cybersecurity skills for real-word investigations.
+- Develop automation tools using Python to streamline analysis
+- Build a professional portfolio to demonstrate my capabilities to potential employers in the cybersecurity field. 
+
+### Skills I'll Be Studying
+
+This study plan covers a wide range of cybersecurity skills, including but not limited to:
+
+- **Network Traffic Analysis**: Capturing and analyzing packets (e.g., using Wireshark, Scapy) to identify suspicious activity.
+- **Log Auditing**: Parsing and auditing logs (e.g., system logs, application logs) to detect anomalies or breaches.
+- **File Recovery Forensics**: Recovering deleted or hidden files using tools like Autopsy.
+- **Memory Forensics**: Analyzing memory dumps (e.g., with Volatility) to uncover malicious processes or artifacts.
+- **Subnet Traffic Analysis**: Investigating traffic within subnets to identify unauthorized access.
+- **Service Permissions Audit**: Auditing service configurations for security vulnerabilities.
+- **Incident Response**: Developing workflows to respond to security incidents.
+- **Threat Hunting**: Proactively searching for threats in network and system data.
+- **Malware Analysis**: Examining malware behavior using static and dynamic analysis techniques.
+- **Python Automation**: Writing scripts to automate repetitive tasks in investigations (e.g., parsing PCAP files, extracting log data).
+
+## Repository Structure
+
+- `labs/`: Lab write-ups in Markdown format (500 words each).
+  - Example: `labs/2025-04-21-packet-capture.md` (Lab 1: Network Traffic Capture).
+- `scripts/`: Python scripts for lab automation and tools.
+  - Example: `2025-04-21-ftp-parser.py` (Lab 1 script to parse FTP commands).
+- `reports/`: Formal cybersecurity reports summarizing investigations, findings, and recommendations.
+  - Example: `reports/2025-04-24-forensic-summary.md`(Lab 3: Forensic Analysis Summary).
+
+## Study Plan Progress
+
+This portfolio follows a long-term study plan starting April 21, 2025, with 3 labs per week. Below is the progress, with Weeks 1-2 detailed and placeholders for future weeks.
+
+### Week 1 (April 21 - April 25, 2025)
+
+- **Lab 1: Network Traffic Capture** (2025-04-21)
+  - Write-up: `labs/2025-04-21-packet-capture.md` (placeholder)
+  - Script: `scripts/2025-04-21-ftp-parser.py` (placeholder)
+- **Lab 2: Log-Based Forensic Audit** (2025-04-22)
+  - Write-up: `labs/2025-04-22-log-audit.md` (placeholder)
+  - Script: `scripts/2025-04-22-log-audit.py` (placeholder)
+- **Lab 3: File Recovery Forensics** (2025-04-24)
+  - Write-up: `labs/2025-04-24-file-recovery.md` (placeholder)
+  - Script: `scripts/2025-04-24-file-recovery.py` (placeholder)
+  - Blog Snapshot: `images/2025-04-24-autopsy-snapshot.png` (placeholder)
+
+### Week 2 (April 28 - May 2, 2025)
+
+- **Lab 4: Subnet Traffic Analysis** (2025-04-28)
+  - Write-up: `labs/2025-04-28-subnet-analyzer.md` (to be added)
+  - Script: `scripts/2025-04-28-subnet-analyzer.py` (to be added)
+- **Lab 5: Service Permissions Audit** (2025-04-29)
+  - Write-up: `labs/2025-04-29-service-audit.md` (to be added)
+  - Script: `scripts/2025-04-29-service-audit.py` (to be added)
+- **Lab 6: Memory Forensics** (2025-05-01)
+  - Write-up: `labs/2025-05-01-memory-forensics.md` (to be added)
+  - Script: `scripts/2025-05-01-process-parser.py` (to be added)
+  - Blog Snapshot: `images/2025-05-01-volatility-snapshot.png` (to be added)
+
+### Future Weeks
+
+- **Week 3 (May 5 - May 9, 2025)**: To be scheduled (likely Incident Response, Threat Hunting).
+  - Write-ups, scripts, and snapshots will be added here.
+- **Week 4 (May 12 - May 16, 2025)**: To be scheduled (likely Malware Analysis, Advanced Network Forensics).
+  - Write-ups, scripts, and snapshots will be added here.
+- **Additional Weeks**: Will continue to expand with more advanced topics (e.g., Reverse Engineering, Cloud Security).
+
+## Links and Resources
+
+As I progress, I’ll share updates and resources:
+
+- **Blog Posts**: www.patosorio.io
+- **External Resources**:
+  - TryHackMe: Path Cybersecurity 101
+  - TryHackMe: a Challenge a day
+  - CyberDefenders: Path CyberRange
+  - HackTheBox: A lab a say
+
+I’ll update this section with specific links as I complete labs and share content.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+Built by patosorio
