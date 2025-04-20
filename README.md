@@ -8,6 +8,7 @@ My study plan involves completing Try Hack Me rooms, CyberDefender Path Rooms, a
 
 - A 500-word write-up detailing the lab process, findings, and tools used.
 - A Python script to automate analysis (parsing netwrok traffic, auditing logs...)
+- A formal report (e.g., forensic summary, incident report) to document findings for professional communication.
 - Blog snapshots, reports to share progress and insights. 
 
 ### General Goals
@@ -49,35 +50,41 @@ This portfolio follows a long-term study plan starting April 21, 2025, with 3 la
 ### Week 1 (April 21 - April 25, 2025)
 
 - **Lab 1: Network Traffic Capture** (2025-04-21)
-  - Write-up: `labs/2025-04-21-packet-capture.md` (placeholder)
-  - Script: `scripts/2025-04-21-ftp-parser.py` (placeholder)
+  - Write-up: 
+  - Report: 
+  - Script: 
 - **Lab 2: Log-Based Forensic Audit** (2025-04-22)
-  - Write-up: `labs/2025-04-22-log-audit.md` (placeholder)
-  - Script: `scripts/2025-04-22-log-audit.py` (placeholder)
+  - Write-up: 
+  - Report: 
+  - Script: 
 - **Lab 3: File Recovery Forensics** (2025-04-24)
-  - Write-up: `labs/2025-04-24-file-recovery.md` (placeholder)
-  - Script: `scripts/2025-04-24-file-recovery.py` (placeholder)
-  - Blog Snapshot: `images/2025-04-24-autopsy-snapshot.png` (placeholder)
+  - Write-up: 
+  - Report: 
+  - Script: 
+  - Blog Snapshot:
 
 ### Week 2 (April 28 - May 2, 2025)
 
 - **Lab 4: Subnet Traffic Analysis** (2025-04-28)
-  - Write-up: `labs/2025-04-28-subnet-analyzer.md` (to be added)
-  - Script: `scripts/2025-04-28-subnet-analyzer.py` (to be added)
+  - Write-up: 
+  - Report: 
+  - Script: 
 - **Lab 5: Service Permissions Audit** (2025-04-29)
-  - Write-up: `labs/2025-04-29-service-audit.md` (to be added)
-  - Script: `scripts/2025-04-29-service-audit.py` (to be added)
+  - Write-up: 
+  - Report: 
+  - Script: 
 - **Lab 6: Memory Forensics** (2025-05-01)
-  - Write-up: `labs/2025-05-01-memory-forensics.md` (to be added)
-  - Script: `scripts/2025-05-01-process-parser.py` (to be added)
-  - Blog Snapshot: `images/2025-05-01-volatility-snapshot.png` (to be added)
+  - Write-up: 
+  - Report: 
+  - Script: 
+  - Blog Snapshot:
 
 ### Future Weeks
 
 - **Week 3 (May 5 - May 9, 2025)**: To be scheduled (likely Incident Response, Threat Hunting).
-  - Write-ups, scripts, and snapshots will be added here.
+  - Write-ups, scripts, reports and snapshots will be added here.
 - **Week 4 (May 12 - May 16, 2025)**: To be scheduled (likely Malware Analysis, Advanced Network Forensics).
-  - Write-ups, scripts, and snapshots will be added here.
+  - Write-ups, scripts, reports and snapshots will be added here.
 - **Additional Weeks**: Will continue to expand with more advanced topics (e.g., Reverse Engineering, Cloud Security).
 
 ## Links and Resources
@@ -90,6 +97,13 @@ As I progress, I’ll share updates and resources:
   - TryHackMe: a Challenge a day
   - CyberDefenders: Path CyberRange
   - HackTheBox: A lab a say
+
+### Core Learning Books
+- "Practical Packet Analysis" by Chris Sanders
+- "Incident Response & Computer Forensics" by Jason T. Luttgens, Matthew Pepe, and Kevin Mandia
+- "Practical Malware Analysis" by Michael Sikorski and Andrew Honig
+- "Practical Reverse Engineering" by Bruce Dang, Alexandre Gazet, and Elias Bachaalany
+- "Practical Cloud Security" by Chris Dotson
 
 I’ll update this section with specific links as I complete labs and share content.
 
