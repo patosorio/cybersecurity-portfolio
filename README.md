@@ -60,11 +60,8 @@ This study plan covers a wide range of cybersecurity skills, including but not l
 
 ## Study Plan Progress
 
-This portfolio follows a long-term study plan starting April 21, 2025, with 3 labs per week. Below is the progress, with Weeks 1-2 detailed and placeholders for future weeks.
+This portfolio follows a long-term study plan starting May 5th 2025, with 3 labs per week. Below is the progress, with Weeks 1-14 detailed and placeholders for future weeks.
 
-## Study Plan Progress
-
-This portfolio follows a long-term study plan starting April 21, 2025, with 3 labs per week. Below is the progress with placeholders for each week.
 
 ### Week 1
 - **Lab 1: Network Traffic Capture**
